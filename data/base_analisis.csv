@@ -1,0 +1,1000 @@
+﻿ID,Categoria,score_salud_mental_total,score_salud_mental_riesgo_categorizado,score_carga_de_trabajo_total,score_carga_de_trabajo_categorizado_riesgo,score_condiciones_de_trabajo_exigencias_emocionales_total,score_condiciones_de_trabajo_exigencias_emocionales_categorizado,score_condiciones_de_trabajo_compañerismo_total,score_condiciones_de_trabajo_compañerismo_categorizado,score_condiciones_de_trabajo_INSEGURIDAD_total,score_condiciones_de_trabajo_INSEGURIDAD_categorizado,score_condiciones_de_trabajo_EQUILIBRIO TRABAJO /VIDA PRIVADA_total,score_condiciones_de_trabajo_EQUILIBRIO TRABAJO /VIDA PRIVADA_categorizado,score_condiciones_de_trabajo_VIOLENCIA Y ACOSO_total,score_condiciones_de_trabajo_VIOLENCIA Y ACOSO_categorizado,Estado Civil,Migrante,Pareja apoya al ingreso ,horas dedicación cuidado de niños ,Horas dedicación trabajo doméstico,persona_edad,región,persona_nivel_educacional,actividad_principal_negocio,persona_ingreso_liquido,numero_integrantes_hogar
+414,Asalariada,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,,25,1,2,34,1200000,1
+371,Asalariada,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,5,5,35,0,14,34,0,1
+117,Asalariada,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,1,35,0,18,33,300000,3
+20,Asalariada,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,0,,2,,0,,11,,3
+59,Asalariada,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,1,,0,,24,,4
+412,Asalariada,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,1,,,3,48,0,14,5,450000,3
+386,Asalariada,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,3,2,,1,,3,,3
+35,Asalariada,27,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,1,37,0,14,3,380000,3
+380,Asalariada,16,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,44,0,18,2,500000,2
+394,Asalariada,21,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,36,0,14,7,800000,2
+407,Asalariada,18,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,0,3,3,42,0,16,2,800000,3
+463,Asalariada,20,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,4,4,34,0,14,24,450000,3
+334,Asalariada,25,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,4,4,48,0,6,28,500000,2
+222,Asalariada,26,Nivel de riesgo alto,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,0,1,3,1,,0,,1,0,1
+311,Asalariada,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,,45,1,1,31,300000,1
+416,Asalariada,14,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,,0,14,2,0,1
+82,Asalariada,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,2,68,0,12,1,260000,2
+499,Asalariada,20,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,1,,1,,55,1,14,24,600000,2
+424,Asalariada,42,Nivel de riesgo alto,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,14,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,38,1,14,2,400000,4
+469,Asalariada,30,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,4,3,,0,,1,,1
+272,Asalariada,23,Nivel de riesgo medio,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,4,35,0,3,34,53000,2
+194,Asalariada,23,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,2,39,1,14,34,450000,2
+220,Asalariada,22,Nivel de riesgo medio,5,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,3,2,47,1,6,29,200000,2
+387,Asalariada,15,Nivel de riesgo bajo,8,Nivel de riesgo alto,2,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,,41,1,2,9,650000,4
+233,Asalariada,23,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,1,,,3,43,0,13,2,200000,3
+271,Asalariada,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,1,1,47,0,15,31,0,3
+243,Asalariada,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,1,,0,,7,,5
+236,Asalariada,24,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,0,,3,3,36,1,2,17,440000,2
+300,Asalariada,34,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,,0,,13,,2
+111,Asalariada,21,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,1,Nivel de riesgo medio,1,0,,,,37,1,18,2,700000,5
+390,Asalariada,30,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,0,,4,3,47,0,5,1,200000,4
+415,Asalariada,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,44,0,8,28,0,2
+362,Asalariada,41,Nivel de riesgo alto,2,Nivel de riesgo medio,5,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,,3,54,0,2,3,250000,2
+500,Asalariada,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,1,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,0,1,3,2,,0,,6,,1
+174,Asalariada,21,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,4,29,0,4,2,50000,3
+333,Asalariada,38,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,0,,3,5,48,0,6,28,500000,2
+116,Asalariada,23,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,47,1,11,24,600000,1
+16,Asalariada,19,Nivel de riesgo medio,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,11,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,5,5,61,0,16,11,665000,4
+370,Asalariada,25,Nivel de riesgo alto,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,1,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,3,2,51,0,10,2,0,4
+249,Asalariada,14,Nivel de riesgo bajo,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo medio,1,0,1,5,5,29,0,14,34,0,2
+85,Asalariada,16,Nivel de riesgo bajo,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,1,Nivel de riesgo medio,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,,41,1,17,24,2000000,3
+287,Asalariada,24,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,2,31,0,18,6,350000,2
+337,Asalariada,30,Nivel de riesgo alto,3,Nivel de riesgo medio,10,Nivel de riesgo alto,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,5,2,60,1,17,16,1200000,2
+124,Asalariada,27,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,2,2,49,0,17,34,800000,4
+274,Asalariada,36,Nivel de riesgo alto,4,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,29,1,17,6,410000,3
+74,Asalariada,24,Nivel de riesgo alto,5,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,1,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,56,0,14,24,0,5
+321,Asalariada,24,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,0,,2,2,49,0,14,1,49000,3
+204,Asalariada,25,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,3,32,0,14,22,400000,3
+49,Asalariada,40,Nivel de riesgo alto,5,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo medio,2,Nivel de riesgo medio,1,0,1,,2,38,0,14,13,210000,4
+193,Asalariada,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,0,1,,2,28,1,17,2,0,2
+97,Asalariada,27,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,48,0,15,5,600000,1
+419,Asalariada,21,Nivel de riesgo medio,5,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,3,2,,0,,13,,4
+429,Asalariada,46,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,10,Nivel de riesgo alto,1,Nivel de riesgo bajo,12,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,,5,5,44,0,17,24,500000,3
+166,Asalariada,15,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,2,1,,1,,3,,3
+285,Asalariada,13,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,2,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,4,4,24,0,16,34,450000,6
+231,Asalariada,23,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo medio,8,Nivel de riesgo alto,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,0,0,,3,49,0,3,3,400000,5
+107,Asalariada,21,Nivel de riesgo medio,7,Nivel de riesgo alto,2,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,2,2,35,1,14,7,380000,4
+202,Asalariada,23,Nivel de riesgo medio,5,Nivel de riesgo alto,9,Nivel de riesgo alto,10,Nivel de riesgo alto,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,2,Nivel de riesgo medio,0,0,,5,3,37,0,4,17,500000,5
+347,Asalariada,26,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,,41,0,14,1,400000,5
+323,Asalariada,20,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,4,2,35,1,18,3,900000,5
+352,Asalariada,14,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,0,,1,,1,,24,,3
+89,Asalariada,47,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,5,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,2,49,1,12,15,750000,3
+173,Asalariada,17,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,59,1,4,11,350000,3
+373,Asalariada,24,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,4,2,40,1,2,24,600000,3
+444,Asalariada,26,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,1,,0,,34,,2
+129,Asalariada,31,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,3,50,1,16,34,5400000,1
+306,Asalariada,32,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo medio,0,0,,3,,33,0,16,7,360000,4
+367,Asalariada,20,Nivel de riesgo medio,6,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,0,,1,55,1,14,24,250000,6
+400,Asalariada,24,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo medio,1,0,1,5,3,41,0,6,6,800000,3
+131,Asalariada,26,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,10,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,1,0,1,5,2,48,0,17,30,350000,4
+134,Asalariada,31,Nivel de riesgo alto,4,Nivel de riesgo medio,12,Nivel de riesgo alto,12,Nivel de riesgo alto,3,Nivel de riesgo medio,7,Nivel de riesgo alto,5,Nivel de riesgo medio,0,0,,,2,47,0,18,12,0,3
+168,Asalariada,14,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,0,1,3,2,32,0,14,2,450000,2
+318,Asalariada,25,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,2,2,33,0,18,31,500000,4
+86,Asalariada,21,Nivel de riesgo medio,5,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,0,,2,62,0,14,5,700000,3
+135,Asalariada,22,Nivel de riesgo medio,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,10,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,,,40,0,14,5,550000,1
+366,Asalariada,28,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,0,0,,5,3,33,1,16,2,0,1
+255,Asalariada,28,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,11,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,13,Nivel de riesgo medio,1,0,1,3,2,55,0,2,1,350000,5
+489,Asalariada,23,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo medio,8,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,1,3,3,45,0,11,9,0,3
+312,Asalariada,25,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,4,Nivel de riesgo medio,0,0,,,1,25,1,2,3,410000,3
+218,Asalariada,23,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,10,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,2,Nivel de riesgo medio,0,1,,3,2,62,0,16,8,600000,2
+14,Asalariada,32,Nivel de riesgo alto,4,Nivel de riesgo medio,12,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,,3,3,44,1,12,3,100000,3
+48,Asalariada,17,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,5,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,0,5,3,47,0,14,33,500000,3
+339,Asalariada,23,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,1,,0,,7,,1
+406,Asalariada,33,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,5,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,0,0,,2,1,33,0,16,34,120000,2
+144,Asalariada,35,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,8,Nivel de riesgo alto,5,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,0,0,,1,2,,0,,3,,3
+304,Asalariada,15,Nivel de riesgo bajo,5,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,36,1,14,3,0,4
+81,Asalariada,15,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,5,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,2,2,,1,,34,,4
+466,Asalariada,32,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,5,5,,0,,10,,4
+25,Asalariada,22,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,0,1,,3,2,39,0,15,29,350000,3
+104,Asalariada,29,Nivel de riesgo alto,5,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,1,5,3,37,0,17,31,1800000,3
+361,Asalariada,33,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,4,36,0,14,2,0,4
+50,Asalariada,24,Nivel de riesgo alto,5,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,3,3,54,0,16,34,0,2
+455,Asalariada,17,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,1,2,2,47,0,14,24,600000,2
+481,Asalariada,24,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,53,0,14,7,250000,1
+88,Asalariada,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo medio,1,0,1,4,3,54,1,13,3,700000,3
+95,Asalariada,13,Nivel de riesgo bajo,6,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,44,0,16,13,1300000,3
+228,Asalariada,13,Nivel de riesgo bajo,4,Nivel de riesgo medio,11,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,4,49,0,16,24,0,3
+385,Asalariada,34,Nivel de riesgo alto,5,Nivel de riesgo alto,11,Nivel de riesgo alto,15,Nivel de riesgo alto,6,Nivel de riesgo alto,11,Nivel de riesgo alto,11,Nivel de riesgo medio,1,0,1,2,1,,1,,4,,7
+106,Asalariada,36,Nivel de riesgo alto,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,1,Nivel de riesgo medio,7,Nivel de riesgo alto,7,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,,3,3,,1,8,11,650000,3
+398,Asalariada,29,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,5,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,,3,,1,,1,,2
+295,Asalariada,27,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,7,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,2,3,59,1,16,24,400000,1
+440,Asalariada,29,Nivel de riesgo alto,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,9,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,0,0,0,,4,59,0,14,34,200000,5
+445,Asalariada,29,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo medio,8,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,4,3,30,1,10,8,0,3
+453,Asalariada,41,Nivel de riesgo alto,2,Nivel de riesgo medio,6,Nivel de riesgo alto,11,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,3,Nivel de riesgo medio,1,0,1,3,3,39,0,2,34,900000,1
+342,Asalariada,34,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo alto,11,Nivel de riesgo alto,8,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,0,,,3,52,1,11,34,600000,1
+468,Asalariada,22,Nivel de riesgo medio,8,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo medio,0,1,,1,2,,0,,1,,1
+72,Asalariada,32,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo alto,5,Nivel de riesgo alto,8,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,4,2,53,0,14,24,450000,4
+493,Asalariada,26,Nivel de riesgo alto,5,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo alto,9,Nivel de riesgo alto,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,33,0,14,2,300000,4
+189,Asalariada,18,Nivel de riesgo bajo,6,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,1,29,0,15,2,250000,2
+26,Asalariada,24,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo medio,1,0,,2,1,41,0,14,7,0,4
+201,Asalariada,29,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,2,1,54,0,5,11,1500000,2
+30,Asalariada,26,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,12,Nivel de riesgo alto,3,Nivel de riesgo medio,0,1,,,,68,0,14,34,700000,2
+122,Asalariada,22,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,9,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,2,2,34,0,14,34,190000,4
+427,Asalariada,17,Nivel de riesgo bajo,9,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,9,Nivel de riesgo alto,12,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,3,3,53,1,14,34,300000,5
+450,Asalariada,13,Nivel de riesgo bajo,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,3,Nivel de riesgo medio,1,1,,4,3,33,0,2,10,150000,3
+308,Asalariada,25,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,2,34,0,15,30,450000,2
+405,Asalariada,26,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,3,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,,33,0,16,34,120000,2
+472,Asalariada,13,Nivel de riesgo bajo,1,Nivel de riesgo bajo,10,Nivel de riesgo alto,8,Nivel de riesgo alto,9,Nivel de riesgo alto,10,Nivel de riesgo alto,5,Nivel de riesgo medio,1,0,1,3,3,,0,,7,,4
+403,Asalariada,25,Nivel de riesgo alto,4,Nivel de riesgo medio,10,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo alto,10,Nivel de riesgo alto,3,Nivel de riesgo medio,0,0,,5,3,,1,,32,,2
+155,Asalariada,35,Nivel de riesgo alto,2,Nivel de riesgo medio,12,Nivel de riesgo alto,14,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,4,4,34,1,14,18,47000,1
+41,Asalariada,34,Nivel de riesgo alto,7,Nivel de riesgo alto,12,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo medio,1,0,1,2,2,64,1,13,24,600000,2
+442,Asalariada,21,Nivel de riesgo medio,1,Nivel de riesgo bajo,12,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,0,0,,,3,53,0,14,24,550000,2
+99,Asalariada,42,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,7,Nivel de riesgo alto,11,Nivel de riesgo alto,7,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,,3,59,1,14,6,3000000,3
+128,Asalariada,22,Nivel de riesgo medio,7,Nivel de riesgo alto,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,3,45,0,14,7,650000,1
+214,Asalariada,15,Nivel de riesgo bajo,9,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,1,,,1,31,1,14,15,100000,4
+115,Asalariada,45,Nivel de riesgo alto,7,Nivel de riesgo alto,11,Nivel de riesgo alto,5,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,17,Nivel de riesgo alto,0,0,,5,4,47,1,11,24,600000,1
+382,Asalariada,12,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,,30,1,13,2,350000,3
+376,Asalariada,12,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,,,37,1,14,6,500000,1
+351,Asalariada,47,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,1,0,,,,1,,24,,3
+278,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,30,1,17,24,400000,4
+411,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,2,34,0,4,34,500000,1
+417,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,,41,0,14,1,600000,2
+8,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,,44,0,12,4,200000,4
+210,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,2,2,45,0,18,6,1700000,4
+497,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,6,Nivel de riesgo medio,1,0,,2,2,48,1,14,34,0,2
+58,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,46,0,14,2,350000,3
+492,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,33,0,14,2,300000,4
+195,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,35,0,15,1,460000,4
+286,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,0,5,3,37,0,17,34,300000,2
+18,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,,55,0,16,10,270000,3
+96,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,29,0,8,1,380000,3
+66,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,,2,1,55,0,12,31,0,5
+192,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,3,56,0,14,13,500000,3
+127,Trabajadora por cuenta propia,19,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,3,3,45,0,14,7,650000,1
+477,Trabajadora por cuenta propia,21,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,2,2,30,0,2,15,300000,4
+227,Trabajadora por cuenta propia,22,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,,1,41,0,17,14,850000,2
+494,Trabajadora por cuenta propia,28,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,64,0,16,14,616000,2
+330,Trabajadora por cuenta propia,34,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,28,Nivel de riesgo alto,1,0,,1,1,38,0,13,31,360000,3
+137,Trabajadora por cuenta propia,39,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,3,5,27,1,18,24,900000,4
+391,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,4,2,43,0,6,1,0,2
+476,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo medio,1,0,1,,1,49,1,18,2,900000,1
+299,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,,1,,34,,1
+317,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,38,1,14,6,300000,5
+282,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,,0,,34,,1
+108,Trabajadora por cuenta propia,19,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,4,3,35,1,14,7,380000,4
+344,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,,2,1,26,0,18,2,550000,2
+73,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,41,0,18,31,1200000,2
+269,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,48,0,17,7,650000,2
+147,Trabajadora por cuenta propia,20,Nivel de riesgo medio,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,4,38,1,14,1,0,3
+487,Trabajadora por cuenta propia,20,Nivel de riesgo medio,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,4,2,54,1,12,1,400000,1
+65,Trabajadora por cuenta propia,23,Nivel de riesgo medio,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,52,1,14,1,0,4
+247,Trabajadora por cuenta propia,43,Nivel de riesgo alto,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,5,42,0,10,3,0,2
+281,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,4,31,0,16,33,150000,1
+123,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,1,33,0,18,34,800000,2
+130,Trabajadora por cuenta propia,19,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,4,41,0,10,17,800000,5
+42,Trabajadora por cuenta propia,29,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,1,3,51,0,14,29,800000,4
+397,Trabajadora por cuenta propia,31,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,31,1,6,6,500000,2
+197,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,3,,1,,14,0,1
+483,Trabajadora por cuenta propia,21,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,2,1,39,0,2,8,0,4
+375,Trabajadora por cuenta propia,26,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,50,1,4,2,0,3
+164,Trabajadora por cuenta propia,29,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,45,1,18,21,900000,1
+84,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,3,5,41,1,17,24,2000000,3
+27,Trabajadora por cuenta propia,22,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,3,2,36,1,9,10,850000,1
+77,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,,0,,24,,7
+501,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,,0,,29,,2
+303,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,1,,3,3,52,1,14,2,1400000,3
+467,Trabajadora por cuenta propia,36,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,3,Nivel de riesgo medio,0,0,,5,5,,0,,10,,4
+343,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,2,3,54,1,2,34,400000,2
+448,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,55,0,16,34,800000,3
+23,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,2,62,0,16,11,800000,1
+12,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,,0,14,3,0,3
+175,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,39,0,18,24,1600,4
+457,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,2,1,31,0,6,5,150000,1
+421,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,1,45,1,14,34,500000,2
+364,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,2,56,0,2,11,0,2
+280,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,61,1,14,27,600000,3
+345,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,32,0,14,34,560000,3
+426,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,2,2,53,1,14,34,300000,5
+465,Trabajadora por cuenta propia,23,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,3,,1,18,31,0,3
+156,Trabajadora por cuenta propia,25,Nivel de riesgo alto,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,34,1,14,18,47000,1
+257,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,1,5,2,53,0,14,2,600000,2
+277,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,,,0,,18,,2
+177,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,4,3,42,1,15,29,1000000,1
+208,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,5,4,,0,,31,,8
+349,Trabajadora por cuenta propia,30,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,51,1,2,24,1400000,1
+120,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,5,5,36,1,14,8,0,1
+252,Trabajadora por cuenta propia,19,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,3,28,0,14,14,100000,2
+126,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,4,49,0,16,21,600000,2
+425,Trabajadora por cuenta propia,19,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,1,4,38,1,1,34,200000,4
+401,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,1,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,59,0,1,5,500000,1
+139,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,1,Nivel de riesgo bajo,2,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,4,,0,,2,,3
+200,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,2,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,51,1,16,6,200000,4
+488,Trabajadora por cuenta propia,19,Nivel de riesgo medio,2,Nivel de riesgo medio,2,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,4,4,25,0,6,9,100000,2
+268,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,2,Nivel de riesgo medio,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,5,33,0,14,1,100000,3
+266,Trabajadora por cuenta propia,19,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,,0,,1,,4
+121,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,4,Nivel de riesgo medio,2,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,26,0,16,3,450000,2
+37,Trabajadora por cuenta propia,23,Nivel de riesgo medio,5,Nivel de riesgo alto,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,5,5,,0,,11,,5
+209,Trabajadora por cuenta propia,24,Nivel de riesgo alto,5,Nivel de riesgo alto,2,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,3,3,30,0,16,1,600000,1
+235,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,6,Nivel de riesgo alto,2,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,3,,1,8,34,0,1
+29,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,2,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,0,,5,5,71,0,18,24,600000,1
+461,Trabajadora por cuenta propia,19,Nivel de riesgo medio,8,Nivel de riesgo alto,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,3,3,45,1,16,2,700000,4
+458,Trabajadora por cuenta propia,24,Nivel de riesgo alto,8,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,,0,,2,,3
+180,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,4,4,36,0,14,34,500000,4
+34,Trabajadora por cuenta propia,21,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,2,2,51,0,6,2,700000,2
+114,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,3,3,53,1,15,3,300000,3
+51,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,34,1,10,34,0,3
+396,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,15,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,,1,,2,,3
+183,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,1,68,0,9,5,460000,1
+478,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,4,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,5,28,0,3,2,300000,3
+327,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,,30,0,4,34,250000,1
+22,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,5,Nivel de riesgo alto,3,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,1,5,2,62,0,16,11,800000,1
+105,Trabajadora por cuenta propia,36,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,4,34,0,14,24,2000000,4
+270,Trabajadora por cuenta propia,25,Nivel de riesgo alto,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,0,4,5,62,0,14,1,150000,1
+56,Trabajadora por cuenta propia,39,Nivel de riesgo alto,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,,37,1,16,11,0,1
+284,Trabajadora por cuenta propia,20,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,4,4,30,1,4,24,500000,1
+332,Trabajadora por cuenta propia,38,Nivel de riesgo alto,2,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,5,39,0,1,2,0,1
+475,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,4,44,0,4,31,650000,2
+9,Trabajadora por cuenta propia,23,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,0,4,3,47,0,14,24,900000,5
+359,Trabajadora por cuenta propia,29,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,3,55,1,2,34,400000,1
+474,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,6,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,2,36,1,11,6,200000,1
+70,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,1,2,37,1,14,1,250000,5
+428,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,7,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,,32,0,14,34,500000,4
+46,Trabajadora por cuenta propia,19,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,4,,1,,3,,2
+242,Trabajadora por cuenta propia,30,Nivel de riesgo alto,2,Nivel de riesgo medio,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,,2,38,0,18,2,400000,2
+392,Trabajadora por cuenta propia,40,Nivel de riesgo alto,2,Nivel de riesgo medio,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,2,64,1,14,34,500000,1
+61,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,4,Nivel de riesgo medio,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,44,0,16,34,450000,3
+60,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,3,2,44,0,16,13,500000,1
+290,Trabajadora por cuenta propia,19,Nivel de riesgo medio,5,Nivel de riesgo alto,5,Nivel de riesgo medio,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,3,,1,,6,,4
+119,Trabajadora por cuenta propia,37,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo medio,11,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,0,1,5,5,45,1,14,3,1000000,3
+263,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,2,Nivel de riesgo medio,6,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,5,2,39,0,3,1,700000,1
+254,Trabajadora por cuenta propia,21,Nivel de riesgo medio,2,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,,1,3,4,0,2
+498,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,3,Nivel de riesgo medio,6,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,2,1,34,0,17,11,27000,2
+143,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,3,Nivel de riesgo medio,6,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,,34,1,14,2,800000,5
+55,Trabajadora por cuenta propia,23,Nivel de riesgo medio,5,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,4,3,28,0,17,3,240000,3
+145,Trabajadora por cuenta propia,31,Nivel de riesgo alto,5,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,,3,4,,0,,3,,2
+292,Trabajadora por cuenta propia,19,Nivel de riesgo medio,7,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,2,35,1,2,34,0,6
+217,Trabajadora por cuenta propia,28,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,9,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,5,5,41,0,12,24,0,4
+172,Trabajadora por cuenta propia,32,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,3,,1,,30,,3
+118,Trabajadora por cuenta propia,30,Nivel de riesgo alto,2,Nivel de riesgo medio,7,Nivel de riesgo alto,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,1,2,35,0,18,33,300000,3
+502,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,3,Nivel de riesgo medio,7,Nivel de riesgo alto,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,,,2,32,0,14,30,300000,2
+484,Trabajadora por cuenta propia,26,Nivel de riesgo alto,4,Nivel de riesgo medio,7,Nivel de riesgo alto,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,3,3,39,0,2,8,0,4
+446,Trabajadora por cuenta propia,44,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,11,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,3,49,0,5,28,500000,4
+4,Trabajadora por cuenta propia,32,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,16,Nivel de riesgo alto,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,1,5,5,49,0,14,16,0,3
+224,Trabajadora por cuenta propia,31,Nivel de riesgo alto,5,Nivel de riesgo alto,8,Nivel de riesgo alto,14,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,3,2,67,0,14,28,0,3
+368,Trabajadora por cuenta propia,24,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,,2,34,0,17,2,0,4
+53,Trabajadora por cuenta propia,26,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,1,35,0,14,8,400000,3
+234,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,5,5,,1,8,34,0,1
+132,Trabajadora por cuenta propia,37,Nivel de riesgo alto,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,16,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo medio,1,0,1,5,5,48,0,17,30,350000,4
+291,Trabajadora por cuenta propia,24,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,15,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,,40,0,18,34,2000000,7
+219,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,52,1,14,15,2300000,3
+178,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,,42,1,16,3,12000000,2
+10,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,,1,,11,,2
+348,Trabajadora por cuenta propia,21,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,13,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,4,52,1,14,1,450000,3
+198,Trabajadora por cuenta propia,22,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,53,0,17,6,0,2
+133,Trabajadora por cuenta propia,27,Nivel de riesgo alto,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,3,48,0,16,17,0,2
+248,Trabajadora por cuenta propia,24,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,5,39,0,16,34,1200000,4
+92,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,1,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,62,1,10,1,500000,3
+229,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,1,Nivel de riesgo bajo,2,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,3,4,48,0,14,9,1400000,1
+63,Trabajadora por cuenta propia,27,Nivel de riesgo alto,2,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,36,0,,1,0,4
+136,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,2,Nivel de riesgo medio,13,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,5,46,0,14,1,400000,4
+213,Trabajadora por cuenta propia,20,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,,1,14,24,0,4
+462,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,4,4,,1,,33,,3
+146,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,33,1,18,6,2000000,3
+288,Trabajadora por cuenta propia,21,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,3,47,1,4,29,800000,3
+338,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,,0,,24,,1
+273,Trabajadora por cuenta propia,45,Nivel de riesgo alto,2,Nivel de riesgo medio,4,Nivel de riesgo medio,13,Nivel de riesgo alto,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,,0,,2,0,2
+439,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,3,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,,3,38,1,14,34,300000,5
+325,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,4,Nivel de riesgo medio,4,Nivel de riesgo medio,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,1,,1,26,0,15,24,350000,2
+404,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,3,2,,1,,32,,2
+336,Trabajadora por cuenta propia,33,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,10,Nivel de riesgo alto,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,4,35,1,,2,1200000,4
+138,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,2,4,36,0,14,1,350000,3
+470,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,9,Nivel de riesgo alto,1,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,2,,0,,11,,3
+436,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,,2,33,0,10,34,400000,7
+340,Trabajadora por cuenta propia,21,Nivel de riesgo medio,6,Nivel de riesgo alto,5,Nivel de riesgo medio,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,2,2,34,1,2,3,300000,2
+485,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,1,Nivel de riesgo bajo,6,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,73,0,1,34,500000,1
+294,Trabajadora por cuenta propia,26,Nivel de riesgo alto,2,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,0,,3,4,59,1,16,24,400000,1
+298,Trabajadora por cuenta propia,26,Nivel de riesgo alto,5,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,4,Nivel de riesgo medio,0,0,,,2,55,1,2,11,800000,1
+437,Trabajadora por cuenta propia,23,Nivel de riesgo medio,12,Nivel de riesgo alto,6,Nivel de riesgo alto,11,Nivel de riesgo alto,1,Nivel de riesgo bajo,11,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,32,0,16,34,750000,4
+31,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,2,2,30,0,14,24,500000,5
+374,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,0,,1,,0,,2,0,1
+354,Trabajadora por cuenta propia,24,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,11,Nivel de riesgo alto,1,Nivel de riesgo bajo,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,1,1,5,5,26,0,15,34,60000,4
+296,Trabajadora por cuenta propia,28,Nivel de riesgo alto,5,Nivel de riesgo alto,8,Nivel de riesgo alto,13,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,50,0,4,32,850000,2
+313,Trabajadora por cuenta propia,36,Nivel de riesgo alto,5,Nivel de riesgo alto,8,Nivel de riesgo alto,16,Nivel de riesgo alto,1,Nivel de riesgo bajo,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,3,30,1,,24,100000,4
+256,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,2,Nivel de riesgo bajo,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,0,,4,3,55,0,2,1,350000,5
+454,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,36,1,4,34,0,1
+430,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,2,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,2,44,0,17,24,500000,3
+13,Trabajadora por cuenta propia,21,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,5,3,,1,,11,,2
+196,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,11,Nivel de riesgo alto,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,3,39,1,14,34,700000,3
+169,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,2,Nivel de riesgo medio,2,Nivel de riesgo medio,6,Nivel de riesgo alto,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,2,3,,0,16,11,300000,5
+297,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,2,Nivel de riesgo medio,2,Nivel de riesgo medio,8,Nivel de riesgo alto,2,Nivel de riesgo bajo,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,3,50,0,4,32,850000,2
+360,Trabajadora por cuenta propia,19,Nivel de riesgo medio,5,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,2,Nivel de riesgo bajo,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,1,1,4,3,58,1,14,3,0,1
+206,Trabajadora por cuenta propia,20,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,1,1,44,1,15,9,900000,3
+279,Trabajadora por cuenta propia,20,Nivel de riesgo medio,5,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,1,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,0,1,,3,61,1,14,27,600000,3
+379,Trabajadora por cuenta propia,29,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,12,Nivel de riesgo alto,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,1,1,4,2,67,0,6,3,0,1
+79,Trabajadora por cuenta propia,24,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,3,41,0,15,34,400000,1
+240,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,5,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,2,,0,,6,,2
+258,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,6,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,,,0,,29,,3
+241,Trabajadora por cuenta propia,27,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,7,Nivel de riesgo alto,2,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,3,,0,,6,,2
+215,Trabajadora por cuenta propia,22,Nivel de riesgo medio,7,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,35,0,18,2,0,3
+7,Trabajadora por cuenta propia,22,Nivel de riesgo medio,0,Nivel de riesgo bajo,5,Nivel de riesgo medio,2,Nivel de riesgo medio,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,,5,2,,0,,34,,2
+90,Trabajadora por cuenta propia,27,Nivel de riesgo alto,1,Nivel de riesgo bajo,5,Nivel de riesgo medio,12,Nivel de riesgo alto,2,Nivel de riesgo bajo,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,4,,1,17,34,850000,3
+275,Trabajadora por cuenta propia,22,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,2,35,0,16,1,250000,1
+409,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,5,Nivel de riesgo alto,5,Nivel de riesgo medio,8,Nivel de riesgo alto,2,Nivel de riesgo bajo,2,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,1,,3,3,25,0,18,24,450000,2
+365,Trabajadora por cuenta propia,34,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo medio,15,Nivel de riesgo alto,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,3,2,56,0,2,11,0,2
+205,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo bajo,5,Nivel de riesgo medio,3,Nivel de riesgo medio,1,0,1,,5,45,1,1,18,200000,2
+185,Trabajadora por cuenta propia,37,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,2,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,1,3,47,0,14,24,700000,6
+94,Trabajadora por cuenta propia,30,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo bajo,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,5,41,1,15,7,564000,5
+259,Trabajadora por cuenta propia,31,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,2,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,2,39,1,18,18,950000,1
+38,Trabajadora por cuenta propia,26,Nivel de riesgo alto,0,Nivel de riesgo bajo,8,Nivel de riesgo alto,8,Nivel de riesgo alto,2,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,1,44,0,14,34,0,2
+316,Trabajadora por cuenta propia,23,Nivel de riesgo medio,3,Nivel de riesgo medio,8,Nivel de riesgo alto,16,Nivel de riesgo alto,2,Nivel de riesgo bajo,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,0,2,3,,0,,6,,2
+47,Trabajadora por cuenta propia,39,Nivel de riesgo alto,5,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,2,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,5,36,0,16,24,0,3
+36,Trabajadora por cuenta propia,24,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,16,Nivel de riesgo alto,2,Nivel de riesgo bajo,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,,0,,11,,5
+341,Trabajadora por cuenta propia,19,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,14,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,3,52,1,11,34,600000,1
+482,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,9,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,3,65,1,16,1,420000,3
+422,Trabajadora por cuenta propia,22,Nivel de riesgo medio,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,3,,0,,10,,2
+410,Trabajadora por cuenta propia,27,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,3,Nivel de riesgo medio,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,1,1,5,4,,1,,28,,3
+320,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,,,1,29,0,2,2,650000,1
+435,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,1,Nivel de riesgo bajo,11,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,1,1,2,1,63,1,14,34,0,1
+307,Trabajadora por cuenta propia,23,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,2,58,1,2,5,300000,2
+110,Trabajadora por cuenta propia,23,Nivel de riesgo medio,5,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,1,3,3,37,0,16,11,1300000,4
+113,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,3,Nivel de riesgo medio,2,Nivel de riesgo medio,8,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,4,53,1,15,3,300000,3
+17,Trabajadora por cuenta propia,22,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,1,5,3,,0,,24,,6
+251,Trabajadora por cuenta propia,23,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,,52,0,2,2,0,2
+207,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,6,Nivel de riesgo alto,2,Nivel de riesgo medio,11,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,21,Nivel de riesgo alto,1,0,,,,53,0,,24,300000,2
+100,Trabajadora por cuenta propia,30,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,4,,0,16,7,1400,1
+250,Trabajadora por cuenta propia,30,Nivel de riesgo alto,7,Nivel de riesgo alto,2,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,4,2,52,0,2,2,0,2
+149,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,,34,0,18,34,700000,3
+393,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,1,,1,3,36,0,14,7,800000,2
+98,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,,59,1,14,6,3000000,3
+93,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,1,41,1,15,7,564000,5
+356,Trabajadora por cuenta propia,24,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,4,,43,1,13,9,450000,4
+161,Trabajadora por cuenta propia,30,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,,34,0,16,11,0,3
+203,Trabajadora por cuenta propia,37,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,5,4,49,0,4,24,0,4
+141,Trabajadora por cuenta propia,39,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,,50,1,16,34,7000000,3
+103,Trabajadora por cuenta propia,28,Nivel de riesgo alto,5,Nivel de riesgo alto,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,5,5,64,0,14,34,1890000,3
+67,Trabajadora por cuenta propia,37,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,4,4,62,0,14,6,290000,3
+309,Trabajadora por cuenta propia,26,Nivel de riesgo alto,7,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo alto,3,Nivel de riesgo medio,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,,5,5,38,0,18,34,1000000,4
+350,Trabajadora por cuenta propia,22,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,1,5,4,30,0,13,8,100000,1
+199,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,0,,3,3,53,0,17,6,0,2
+187,Trabajadora por cuenta propia,23,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,38,1,14,9,0,3
+265,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,4,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,3,2,61,1,15,1,0,2
+87,Trabajadora por cuenta propia,23,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,2,Nivel de riesgo bajo,12,Nivel de riesgo medio,0,0,,1,,59,0,18,13,485000,1
+223,Trabajadora por cuenta propia,26,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,2,2,67,0,14,28,0,3
+433,Trabajadora por cuenta propia,30,Nivel de riesgo alto,2,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,,1,59,0,14,34,150000,3
+460,Trabajadora por cuenta propia,29,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo alto,5,Nivel de riesgo medio,1,0,1,5,2,45,1,16,2,700000,4
+260,Trabajadora por cuenta propia,38,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,7,Nivel de riesgo alto,3,Nivel de riesgo medio,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,5,40,1,2,1,400000,5
+319,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,1,1,,2,32,0,14,8,520000,2
+109,Trabajadora por cuenta propia,32,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,2,3,53,0,14,34,202000,4
+449,Trabajadora por cuenta propia,26,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,14,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,1,,,2,,0,,1,,2
+182,Trabajadora por cuenta propia,19,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,1,2,22,0,17,6,200000,2
+68,Trabajadora por cuenta propia,35,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,10,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,3,3,37,0,14,34,0,1
+447,Trabajadora por cuenta propia,27,Nivel de riesgo alto,5,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,63,1,3,13,400000,2
+264,Trabajadora por cuenta propia,23,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,9,Nivel de riesgo alto,8,Nivel de riesgo medio,0,1,,5,5,39,0,3,1,700000,1
+28,Trabajadora por cuenta propia,45,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,5,Nivel de riesgo alto,3,Nivel de riesgo medio,10,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,5,3,34,1,14,29,0,5
+142,Trabajadora por cuenta propia,34,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,39,0,14,6,100000,1
+181,Trabajadora por cuenta propia,19,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,Nivel de riesgo bajo,14,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,1,0,,2,1,36,0,14,34,500000,4
+355,Trabajadora por cuenta propia,19,Nivel de riesgo medio,3,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,2,43,1,13,9,450000,4
+15,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,6,Nivel de riesgo alto,2,Nivel de riesgo medio,16,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,3,5,47,1,18,7,2500000,4
+212,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,28,Nivel de riesgo alto,1,0,,5,5,38,0,14,24,480000,4
+490,Trabajadora por cuenta propia,24,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,12,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,1,,,1,45,0,11,9,0,3
+372,Trabajadora por cuenta propia,35,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,13,Nivel de riesgo alto,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,,1,2,,0,4,32,0,2
+378,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,4,Nivel de riesgo medio,3,Nivel de riesgo medio,15,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,5,49,0,18,6,500000,4
+44,Trabajadora por cuenta propia,28,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,16,Nivel de riesgo alto,4,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,35,1,12,24,1150000,1
+154,Trabajadora por cuenta propia,28,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,8,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,1,0,1,4,4,42,0,18,1,750000,3
+162,Trabajadora por cuenta propia,24,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,8,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,1,1,4,4,36,0,16,3,900000,6
+486,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,3,Nivel de riesgo medio,5,Nivel de riesgo medio,7,Nivel de riesgo alto,4,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,,2,34,0,18,3,60000,3
+473,Trabajadora por cuenta propia,21,Nivel de riesgo medio,5,Nivel de riesgo alto,5,Nivel de riesgo medio,5,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,13,Nivel de riesgo medio,1,0,1,5,5,45,0,2,34,100000,1
+456,Trabajadora por cuenta propia,21,Nivel de riesgo medio,6,Nivel de riesgo alto,5,Nivel de riesgo medio,12,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,1,1,1,2,37,1,18,2,850000,1
+464,Trabajadora por cuenta propia,43,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo medio,16,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,21,1,5,24,0,4
+167,Trabajadora por cuenta propia,33,Nivel de riesgo alto,8,Nivel de riesgo alto,5,Nivel de riesgo medio,8,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,,,32,0,14,2,450000,2
+165,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,3,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,1,0,1,3,2,31,0,18,25,700000,1
+150,Trabajadora por cuenta propia,23,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,4,34,0,18,34,700000,3
+5,Trabajadora por cuenta propia,20,Nivel de riesgo medio,9,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo bajo,4,Nivel de riesgo medio,0,0,,2,2,51,1,16,34,750000,2
+1,Trabajadora por cuenta propia,31,Nivel de riesgo alto,3,Nivel de riesgo medio,8,Nivel de riesgo alto,16,Nivel de riesgo alto,4,Nivel de riesgo medio,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,3,46,0,16,1,620000,4
+283,Trabajadora por cuenta propia,36,Nivel de riesgo alto,9,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,4,Nivel de riesgo medio,4,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,,4,5,29,0,6,34,1000000,4
+331,Trabajadora por cuenta propia,29,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,5,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,4,3,69,0,12,5,230000,3
+388,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,2,Nivel de riesgo medio,4,Nivel de riesgo medio,5,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,2,31,0,17,24,500000,3
+395,Trabajadora por cuenta propia,33,Nivel de riesgo alto,7,Nivel de riesgo alto,3,Nivel de riesgo medio,10,Nivel de riesgo alto,5,Nivel de riesgo medio,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,54,0,2,9,600000,1
+459,Trabajadora por cuenta propia,22,Nivel de riesgo medio,4,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo medio,2,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,3,2,47,1,14,24,60000,1
+153,Trabajadora por cuenta propia,21,Nivel de riesgo medio,5,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,3,3,46,0,14,11,1800000,4
+112,Trabajadora por cuenta propia,23,Nivel de riesgo medio,6,Nivel de riesgo alto,4,Nivel de riesgo medio,11,Nivel de riesgo alto,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,1,2,58,0,16,1,800000,3
+326,Trabajadora por cuenta propia,19,Nivel de riesgo medio,8,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,5,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,1,1,33,1,18,34,0,1
+302,Trabajadora por cuenta propia,19,Nivel de riesgo medio,5,Nivel de riesgo alto,5,Nivel de riesgo medio,14,Nivel de riesgo alto,5,Nivel de riesgo medio,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,1,,2,1,45,0,8,34,420000,1
+471,Trabajadora por cuenta propia,19,Nivel de riesgo medio,5,Nivel de riesgo alto,5,Nivel de riesgo medio,9,Nivel de riesgo alto,5,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,2,1,,0,,11,,3
+52,Trabajadora por cuenta propia,22,Nivel de riesgo medio,5,Nivel de riesgo alto,5,Nivel de riesgo medio,8,Nivel de riesgo alto,5,Nivel de riesgo medio,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,5,5,51,0,16,24,780000,3
+289,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo medio,8,Nivel de riesgo alto,5,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,1,5,3,37,1,2,3,0,2
+148,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,6,Nivel de riesgo alto,8,Nivel de riesgo alto,5,Nivel de riesgo medio,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,5,5,,1,,11,,3
+238,Trabajadora por cuenta propia,30,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,10,Nivel de riesgo alto,5,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,1,3,47,0,13,9,0,3
+188,Trabajadora por cuenta propia,32,Nivel de riesgo alto,5,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,3,Nivel de riesgo medio,1,1,1,5,4,46,0,2,13,1700000,5
+24,Trabajadora por cuenta propia,31,Nivel de riesgo alto,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo medio,5,Nivel de riesgo medio,3,Nivel de riesgo medio,0,0,,2,,39,0,15,29,350000,3
+221,Trabajadora por cuenta propia,29,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo alto,5,Nivel de riesgo medio,6,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,1,,2,68,0,3,2,500000,1
+315,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,5,Nivel de riesgo alto,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,6,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,,1,,0,,20,,2
+190,Trabajadora por cuenta propia,29,Nivel de riesgo alto,7,Nivel de riesgo alto,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,6,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,3,34,0,16,4,0,2
+71,Trabajadora por cuenta propia,21,Nivel de riesgo medio,0,Nivel de riesgo bajo,2,Nivel de riesgo medio,4,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,1,0,2,2,53,0,14,24,450000,4
+171,Trabajadora por cuenta propia,26,Nivel de riesgo alto,5,Nivel de riesgo alto,2,Nivel de riesgo medio,3,Nivel de riesgo medio,6,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,1,3,3,,0,,24,,3
+381,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,1,1,2,1,46,1,2,17,0,3
+322,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,4,Nivel de riesgo medio,3,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,52,1,3,3,80000,5
+441,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,6,Nivel de riesgo alto,3,Nivel de riesgo medio,11,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,5,5,53,0,14,24,550000,2
+329,Trabajadora por cuenta propia,22,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,11,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,2,49,1,13,2,250000,1
+346,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,2,Nivel de riesgo medio,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,0,1,2,1,,1,,6,,7
+54,Trabajadora por cuenta propia,21,Nivel de riesgo medio,7,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo medio,1,0,,5,2,57,0,14,3,240000,3
+335,Trabajadora por cuenta propia,19,Nivel de riesgo medio,3,Nivel de riesgo medio,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,1,20,0,5,3,0,4
+21,Trabajadora por cuenta propia,33,Nivel de riesgo alto,9,Nivel de riesgo alto,5,Nivel de riesgo medio,7,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,,0,,11,,3
+101,Trabajadora por cuenta propia,27,Nivel de riesgo alto,4,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,12,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,3,2,39,1,15,5,1030000,3
+3,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,,,40,1,14,1,40000,3
+75,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,1,1,56,0,14,33,500000,3
+83,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,0,2,3,31,0,16,28,650000,4
+232,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,1,3,5,49,0,3,3,400000,5
+399,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,4,5,38,0,2,2,100000,6
+480,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,1,2,,38,1,16,1,500000,4
+438,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,5,4,,1,,3,,3
+276,Trabajadora por cuenta propia,24,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,4,3,,0,,34,,2
+434,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,2,44,0,6,2,1000000,2
+420,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,,3,,0,,13,,4
+157,Trabajadora por cuenta propia,26,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,4,52,0,15,24,1100,5
+431,Trabajadora por cuenta propia,28,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,5,5,40,0,4,34,200000,1
+357,Trabajadora por cuenta propia,28,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,,,0,,5,,8
+358,Trabajadora por cuenta propia,29,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,1,0,1,5,5,,0,,5,,8
+261,Trabajadora por cuenta propia,30,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,1,,,,40,1,2,10,800000,2
+246,Trabajadora por cuenta propia,34,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,1,39,1,15,24,0,5
+383,Trabajadora por cuenta propia,35,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,,5,5,32,1,4,34,103000,2
+69,Trabajadora por cuenta propia,38,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,16,Nivel de riesgo alto,1,0,1,3,3,33,1,14,9,200000,4
+245,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,8,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,,,1,,29,,4
+170,Trabajadora por cuenta propia,25,Nivel de riesgo alto,12,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,4,3,51,0,14,2,310000,3
+253,Trabajadora por cuenta propia,25,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,2,3,36,1,14,34,450000,3
+45,Trabajadora por cuenta propia,29,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,,2,29,0,14,1,420000,2
+293,Trabajadora por cuenta propia,36,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,1,,2,3,42,0,18,34,700000,4
+80,Trabajadora por cuenta propia,22,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,43,0,16,28,600000,4
+262,Trabajadora por cuenta propia,15,Nivel de riesgo bajo,0,Nivel de riesgo bajo,3,Nivel de riesgo medio,4,Nivel de riesgo medio,7,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,,4,5,58,0,2,1,600000,1
+413,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,2,Nivel de riesgo medio,3,Nivel de riesgo medio,10,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,4,1,44,1,14,24,0,3
+408,Trabajadora por cuenta propia,22,Nivel de riesgo medio,5,Nivel de riesgo alto,3,Nivel de riesgo medio,4,Nivel de riesgo medio,7,Nivel de riesgo alto,4,Nivel de riesgo medio,1,Nivel de riesgo medio,1,0,1,4,2,50,0,18,27,900000,2
+479,Trabajadora por cuenta propia,19,Nivel de riesgo medio,9,Nivel de riesgo alto,3,Nivel de riesgo medio,5,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,3,Nivel de riesgo medio,1,0,,1,3,57,1,14,24,0,2
+11,Trabajadora por cuenta propia,39,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,11,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,0,0,1,5,4,53,1,14,4,300000,2
+160,Trabajadora por cuenta propia,32,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,3,31,0,16,5,700000,4
+443,Trabajadora por cuenta propia,22,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,3,3,26,0,2,24,0,1
+301,Trabajadora por cuenta propia,32,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,7,Nivel de riesgo alto,7,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo medio,1,0,1,2,2,,1,18,34,80000,5
+384,Trabajadora por cuenta propia,30,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,10,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,4,4,38,1,14,1,200000,2
+76,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,6,Nivel de riesgo alto,7,Nivel de riesgo alto,4,Nivel de riesgo medio,7,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,2,41,0,17,26,250000,2
+267,Trabajadora por cuenta propia,22,Nivel de riesgo medio,7,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,,,33,0,14,1,100000,3
+402,Trabajadora por cuenta propia,27,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,7,Nivel de riesgo alto,9,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,2,2,41,0,14,4,350000,5
+310,Trabajadora por cuenta propia,24,Nivel de riesgo alto,8,Nivel de riesgo alto,9,Nivel de riesgo alto,7,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,3,29,0,16,34,250000,3
+179,Trabajadora por cuenta propia,20,Nivel de riesgo medio,5,Nivel de riesgo alto,2,Nivel de riesgo medio,9,Nivel de riesgo alto,8,Nivel de riesgo alto,12,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,3,3,42,1,16,3,12000000,2
+102,Trabajadora por cuenta propia,32,Nivel de riesgo alto,7,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,1,3,64,0,14,34,1890000,3
+33,Trabajadora por cuenta propia,30,Nivel de riesgo alto,3,Nivel de riesgo medio,3,Nivel de riesgo medio,4,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,2,3,42,0,12,24,500000,5
+389,Trabajadora por cuenta propia,20,Nivel de riesgo medio,4,Nivel de riesgo medio,3,Nivel de riesgo medio,7,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,3,3,55,0,14,7,500000,3
+39,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,5,Nivel de riesgo alto,4,Nivel de riesgo medio,12,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,4,1,53,0,2,2,300000,4
+239,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,7,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,8,Nivel de riesgo alto,6,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,3,3,37,0,14,34,450000,4
+40,Trabajadora por cuenta propia,43,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,3,2,42,0,14,34,1232000,3
+140,Trabajadora por cuenta propia,34,Nivel de riesgo alto,3,Nivel de riesgo medio,9,Nivel de riesgo alto,10,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,3,Nivel de riesgo medio,0,0,0,3,4,50,1,16,34,7000000,3
+216,Trabajadora por cuenta propia,28,Nivel de riesgo alto,7,Nivel de riesgo alto,1,Nivel de riesgo bajo,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,4,4,39,1,17,34,50000,6
+423,Trabajadora por cuenta propia,39,Nivel de riesgo alto,3,Nivel de riesgo medio,6,Nivel de riesgo alto,10,Nivel de riesgo alto,9,Nivel de riesgo alto,5,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,0,,2,3,39,1,14,2,600000,4
+226,Trabajadora por cuenta propia,20,Nivel de riesgo medio,6,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,2,26,0,14,2,600000,2
+314,Trabajadora por cuenta propia,27,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,35,0,12,6,400000,4
+191,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,6,Nivel de riesgo alto,7,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,,2,26,0,14,14,300000,6
+151,Trabajadora por cuenta propia,37,Nivel de riesgo alto,8,Nivel de riesgo alto,7,Nivel de riesgo alto,5,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,1,5,5,47,1,14,5,300000,2
+305,Trabajadora por cuenta propia,28,Nivel de riesgo alto,8,Nivel de riesgo alto,8,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,,2,3,33,0,16,7,360000,4
+432,Trabajadora por cuenta propia,29,Nivel de riesgo alto,6,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,12,Nivel de riesgo medio,1,0,1,,3,41,1,6,34,540000,4
+62,Trabajadora por cuenta propia,13,Nivel de riesgo bajo,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,2,,1,,11,,1
+230,Trabajadora por cuenta propia,16,Nivel de riesgo bajo,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,3,45,0,14,6,300000,5
+64,Trabajadora por cuenta propia,21,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,7,Nivel de riesgo alto,9,Nivel de riesgo alto,8,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,3,3,34,0,14,34,500000,2
+353,Trabajadora por cuenta propia,23,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,2,53,0,12,1,400000,2
+377,Trabajadora por cuenta propia,24,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,7,Nivel de riesgo medio,1,0,1,1,1,47,0,14,24,230000,3
+495,Trabajadora por cuenta propia,24,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,2,3,64,0,16,14,616000,2
+225,Trabajadora por cuenta propia,24,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,1,,0,,6,,1
+158,Trabajadora por cuenta propia,28,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,1,5,5,64,1,15,13,500000,3
+369,Trabajadora por cuenta propia,29,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,6,Nivel de riesgo alto,14,Nivel de riesgo medio,0,0,,,1,51,0,10,2,0,4
+152,Trabajadora por cuenta propia,30,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,2,2,44,0,14,34,600000,3
+186,Trabajadora por cuenta propia,32,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,0,0,,1,1,47,0,14,24,700000,6
+32,Trabajadora por cuenta propia,35,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,7,Nivel de riesgo medio,1,0,,2,2,48,0,14,2,900000,4
+363,Trabajadora por cuenta propia,37,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,4,Nivel de riesgo medio,9,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,,3,,0,,25,,3
+91,Trabajadora por cuenta propia,21,Nivel de riesgo medio,10,Nivel de riesgo alto,10,Nivel de riesgo alto,5,Nivel de riesgo alto,9,Nivel de riesgo alto,9,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,4,3,29,1,14,11,0,2
+328,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,4,Nivel de riesgo medio,10,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,2,1,38,0,14,2,0,7
+176,Trabajadora por cuenta propia,35,Nivel de riesgo alto,6,Nivel de riesgo alto,5,Nivel de riesgo medio,2,Nivel de riesgo medio,10,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,,3,5,53,1,14,3,1100000,2
+244,Trabajadora por cuenta propia,22,Nivel de riesgo medio,5,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,,2,,0,,7,,5
+159,Trabajadora por cuenta propia,36,Nivel de riesgo alto,6,Nivel de riesgo alto,6,Nivel de riesgo alto,2,Nivel de riesgo medio,10,Nivel de riesgo alto,10,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,1,3,3,64,1,15,13,500000,3
+324,Trabajadora por cuenta propia,26,Nivel de riesgo alto,9,Nivel de riesgo alto,6,Nivel de riesgo alto,8,Nivel de riesgo alto,10,Nivel de riesgo alto,12,Nivel de riesgo alto,8,Nivel de riesgo medio,1,0,1,2,2,,1,,7,,1
+184,Trabajadora por cuenta propia,14,Nivel de riesgo bajo,1,Nivel de riesgo bajo,7,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,1,Nivel de riesgo bajo,1,Nivel de riesgo medio,0,0,,5,5,33,0,14,1,80000,4
+211,Trabajadora por cuenta propia,21,Nivel de riesgo medio,7,Nivel de riesgo alto,7,Nivel de riesgo alto,3,Nivel de riesgo medio,10,Nivel de riesgo alto,6,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,1,3,3,38,0,14,24,480000,4
+78,Trabajadora por cuenta propia,17,Nivel de riesgo bajo,10,Nivel de riesgo alto,9,Nivel de riesgo alto,3,Nivel de riesgo medio,10,Nivel de riesgo alto,9,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,2,2,57,0,14,5,650000,1
+2,Trabajadora por cuenta propia,27,Nivel de riesgo alto,9,Nivel de riesgo alto,10,Nivel de riesgo alto,0,Nivel de riesgo bajo,10,Nivel de riesgo alto,11,Nivel de riesgo alto,3,Nivel de riesgo medio,0,0,,5,5,60,0,16,18,1800000,2
+43,Trabajadora por cuenta propia,34,Nivel de riesgo alto,9,Nivel de riesgo alto,12,Nivel de riesgo alto,16,Nivel de riesgo alto,10,Nivel de riesgo alto,12,Nivel de riesgo alto,10,Nivel de riesgo medio,0,0,,4,2,68,0,12,5,400000,1
+57,Trabajadora por cuenta propia,24,Nivel de riesgo alto,6,Nivel de riesgo alto,11,Nivel de riesgo alto,4,Nivel de riesgo medio,11,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,1,0,1,5,5,37,1,16,11,0,1
+491,Trabajadora por cuenta propia,18,Nivel de riesgo bajo,12,Nivel de riesgo alto,11,Nivel de riesgo alto,1,Nivel de riesgo medio,11,Nivel de riesgo alto,11,Nivel de riesgo alto,7,Nivel de riesgo medio,1,0,1,,,49,0,14,1,500000,3
+163,Trabajadora por cuenta propia,12,Nivel de riesgo bajo,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,4,Nivel de riesgo medio,12,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,1,0,1,,1,48,0,14,24,450000,4
+6,Trabajadora por cuenta propia,26,Nivel de riesgo alto,3,Nivel de riesgo medio,0,Nivel de riesgo bajo,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,1,Nivel de riesgo bajo,0,Nivel de riesgo bajo,1,0,1,,3,56,1,14,28,150000,2
+19,Trabajadora por cuenta propia,37,Nivel de riesgo alto,8,Nivel de riesgo alto,2,Nivel de riesgo medio,8,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,5,2,66,0,10,3,800000,2
+452,Trabajadora por cuenta propia,29,Nivel de riesgo alto,5,Nivel de riesgo alto,3,Nivel de riesgo medio,12,Nivel de riesgo alto,12,Nivel de riesgo alto,3,Nivel de riesgo medio,1,Nivel de riesgo medio,0,0,,,3,48,1,6,25,3000000,2
+125,Trabajadora por cuenta propia,31,Nivel de riesgo alto,6,Nivel de riesgo alto,4,Nivel de riesgo medio,7,Nivel de riesgo alto,12,Nivel de riesgo alto,10,Nivel de riesgo alto,1,Nivel de riesgo medio,0,0,0,5,5,49,0,17,34,800000,4
+496,Trabajadora por cuenta propia,26,Nivel de riesgo alto,9,Nivel de riesgo alto,8,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,9,Nivel de riesgo alto,2,Nivel de riesgo medio,1,0,1,5,4,,1,,1,,2
+418,Trabajadora por cuenta propia,34,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,16,Nivel de riesgo alto,12,Nivel de riesgo alto,8,Nivel de riesgo alto,1,Nivel de riesgo medio,1,0,,,5,59,1,10,24,1000000,1
+451,Trabajadora por cuenta propia,22,Nivel de riesgo medio,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,0,0,,2,2,42,1,14,3,550000,3
+237,Trabajadora por cuenta propia,30,Nivel de riesgo alto,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,12,Nivel de riesgo alto,12,Nivel de riesgo alto,0,Nivel de riesgo bajo,1,0,1,3,2,36,1,2,17,440000,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
